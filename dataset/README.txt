@@ -1,0 +1,1 @@
+create a folder holding the name of a person and containing his photos (with .png extension as preference)
