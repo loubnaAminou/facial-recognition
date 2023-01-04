@@ -1,0 +1,12 @@
+1. detection
+    cd face_detection_model
+    cd face-detection
+    python detect_faces_image.py image.png
+    cd ..
+    cd ..
+2. feature extract
+    python extract_embeddings.py
+3. train
+    python train_model.py
+4. prediction
+    python recognize_image.py -i image.png
